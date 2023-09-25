@@ -1,0 +1,12 @@
+.textareaStyle {
+    border-radius: 5px;
+    padding: 10px;
+    width: 50%;
+    resize: none;
+  }
+  
+.copyButtonStyle {
+border-radius: 0px;
+border: none;
+padding: 10px;
+}

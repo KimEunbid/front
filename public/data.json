@@ -1,0 +1,16 @@
+{   
+    "id":1,
+    "word": "빛",
+    "summary":"빛(light)이란 좁은 의미에서 가시광선, 즉 일반적으로 사람이 볼 수 있는 영역의 전자기파를 의미하고, 넓은 의미에서 전파, 적외선, X선 등 모든 영역의 전자기파를 의미한다. 물리학에서 주로 넓은 뜻으로 쓰인다.",
+    "questions": "@What is the opposite of dark?@boring",
+    "description": {
+        "naturescience": {
+            "contents": "The opposite of dark.",
+            "comments": "asdf"
+        },
+        "socialscience": {
+            "contents": "The opposite of dark.",
+            "comments": "asdf"
+        }
+    }
+}
